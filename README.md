@@ -1,4 +1,4 @@
-# getting-and-cleaning-data Project
+# Getting-and-cleaning-data Project
 ======================================================================
 My project
 Here are the details of the project and process of producing tidy data are given below
